@@ -1,0 +1,9 @@
+*.RDS
+*.RDataTmp
+*.RDataTmp1
+*.RDataTmp2
+*.pptx
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
