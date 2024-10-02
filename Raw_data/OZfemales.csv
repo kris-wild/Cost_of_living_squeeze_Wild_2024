@@ -1,0 +1,787 @@
+Area,Number,Genus,Species,Genus_species,Ovarian,Oviductal,CS,Cvol,Wt,SVL,RCM
+I,13467,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,3/3 x 3mm,,6,,,,
+I,13491,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,3/3 x 13mm,6,1.68,11,,0.153
+I,13492,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,3/3 x 14 mm,6,1.76,8.7,,0.202
+I,13495,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,,4,1.35,11,,0.123
+I,13500,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,2/2 x 13mm,4,1.38,8.7,,0.159
+I,13501,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,2/1 x 5 mm,,3,,,,
+I,13510,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,4/3 x 15mm,7,2.74,12.5,,0.219
+I,13538,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,3/3 x 14mm,6,1.85,14.5,,0.128
+I,13543,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,2/2 x 12mm,4,1.26,8.2,,0.154
+I,13545,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,3/1 x 14mm,4,1.31,7.7,,0.17
+I,13550,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,3/3 x 13mm,6,1.58,9,,0.176
+I,13551,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,2/2 x6mm,,4,,,,
+I,13567,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,4/3 x 8mm,,7,,,,
+I,13569,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,2/3 x 5mm,,5,,,,
+I,13582,Ctenophorus,caudicinctus,Ctenophorus_caudicinctus,,3/4 x 13mm,7,2.21,12.7,,0.174
+R,1813,Ctenophorus,clayi,Ctenophorus_clayi,,2/0 x 7mm,2,,,,
+R,1849,Ctenophorus,clayi,Ctenophorus_clayi,2/1 x 3mm,,3,,,,
+R,1867,Ctenophorus,clayi,Ctenophorus_clayi,,1/1 x 15mm,2,0.7,4,,0.175
+R,1884,Ctenophorus,clayi,Ctenophorus_clayi,,1/1 x 12-14mm,2,0.55,3.2,,0.171875
+R,2219,Ctenophorus,clayi,Ctenophorus_clayi,,1/1 x 13-14mm,2,0.65,3.1,,0.209677419
+R,2662,Ctenophorus,clayi,Ctenophorus_clayi,,1/0 x 12.3mm,1,0.35,3.3,,0.106060606
+I,12946,Ctenophorus,clayi,Ctenophorus_clayi,,1/1 x 11mm,3,0.35,4,,0.088
+I,13093,Ctenophorus,clayi,Ctenophorus_clayi,,,1,0.1,3.7,,0.027
+E,1830,Ctenophorus,fordi,Ctenophorus_fordi,,1/1 x 14-15mm,2,0.75,4.9,,0.153061224
+E,12096,Ctenophorus,fordi,Ctenophorus_fordi,2/1 x 10mm,,3,,,,
+E,12125,Ctenophorus,fordi,Ctenophorus_fordi,1/1 x 7mm,,2,,,,
+E,12127,Ctenophorus,fordi,Ctenophorus_fordi,,1/1 x 11mm,2,0.61,4.7,,0.13
+E,12132,Ctenophorus,fordi,Ctenophorus_fordi,2/1 x 8mm,,3,,,,
+E,12158,Ctenophorus,fordi,Ctenophorus_fordi,,1/1x 13mm,2,0.6,6.5,,0.092
+E,12160,Ctenophorus,fordi,Ctenophorus_fordi,,1/2 x 8mm,3,0.92,7.2,,0.128
+E,12198,Ctenophorus,fordi,Ctenophorus_fordi,1/1 x 6mm,,2,,,,
+E,12239,Ctenophorus,fordi,Ctenophorus_fordi,,1/1 x 15mm,2,0.86,6.5,,0.132
+E,12284,Ctenophorus,fordi,Ctenophorus_fordi,,1/2 x 11mm,3,0.75,5.5,,0.136
+E,12290,Ctenophorus,fordi,Ctenophorus_fordi,1/1 x 7mm,,2,,,,
+G,12387,Ctenophorus,fordi,Ctenophorus_fordi,1/2 x 4-5.5mm,,3,,,,
+E,12855,Ctenophorus,fordi,Ctenophorus_fordi,,1/1 x 13mm,2,0.55,4,,0.138
+L,914,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 7mm,,2,,,,
+L,917,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x 10-11mm,3,0.9,,,
+L,994,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 9mm,,2,,,,
+L,1021,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 5mm,,3,,,,
+L,1023,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x 10-12mm,2,0.9,,,
+L,1031,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 20mm,4,1.2,,,
+L,1046,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 14mm,,3,,,,
+L,1047,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 6mm,,3,,,,
+L,1064,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 4mm,,3,,,,
+L,1239,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 7mm,,2,,,,
+L,1266,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x5.5-6mm,,3,,,,
+L,1271,Ctenophorus,isolepis,Ctenophorus_isolepis,1/3 x 3-7mm,,4,,,,
+L,1272,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 4mm,,3,,,,
+L,1274,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 5-8mm,,3,,,,
+L,1275,Ctenophorus,isolepis,Ctenophorus_isolepis,0/2 x 4mm,,2,,,,
+L,1276,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+L,1277,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 6mm,,2,,,,
+L,1299,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 8-9mm,,4,,,,
+L,1307,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 3mm,,3,,,,
+L,1313,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x5-5.5mm,,3,,,,
+L,1317,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+L,1319,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 7-8mm,,3,,,,
+L,1330,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 14mm,2,0.7,,,
+L,1331,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 4mm,,3,,,,
+L,1333,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 12mm,2,0.75,,,
+L,1343,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 5mm,,3,,,,
+L,1351,Ctenophorus,isolepis,Ctenophorus_isolepis,3/1 x 5-6mm,,4,,,,
+L,1353,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 5mm,,3,,,,
+L,1367,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 13mm,2,0.65,,,
+L,1376,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+L,1377,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x 12mm,3,0.9,,,
+L,1380,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+L,1384,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x 14-15mm,3,1.28,,,
+L,1387,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 11mm,2,0.6,,,
+L,1389,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3.5mm,,4,,,,
+L,1390,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 3mm,,2,,,,
+L,1427,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 4mm,,3,,,,
+L,1621,Ctenophorus,isolepis,Ctenophorus_isolepis,2/0 x 7-8mm,,2,,,,
+L,1631,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 12-14mm,2,0.55,,,
+L,1634,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/2 x 15mm,3,1.1,,,
+L,1643,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 11-13mm,2,0.4,,,
+L,1644,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x 14-15mm,3,1.1,,,
+L,1661,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 7mm,,3,,,,
+L,1662,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/2 x 12-14mm,3,0.9,,,
+L,1670,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 4mm,,3,,,,
+L,1672,Ctenophorus,isolepis,Ctenophorus_isolepis,0/1 x 9mm,,1,,,,
+L,1673,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 Oviductal,2,0.75,,,
+L,1704,Ctenophorus,isolepis,Ctenophorus_isolepis,3/0 x 3mm,,3,,,,
+L,1709,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 3mm,,2,,,,
+L,1712,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3-5mm,,4,,,,
+L,1755,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 14mm,,2,,,,
+L,1760,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+L,1762,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 5-6mm,,3,,,,
+L,2028,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+L,2099,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+L,2109,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 4-5mm,,2,,,,
+L,2111,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1x 6-7mm,,2,,,,
+L,2113,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 3-4mm,,3,,,,
+L,2151,Ctenophorus,isolepis,Ctenophorus_isolepis,2/3 x 4-5mm,,5,,,,
+L,2163,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+L,2171,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2x5-6mm,,4,,,,
+L,2172,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+L,2199,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3-5mm,,3,,,,
+L,2351,Ctenophorus,isolepis,Ctenophorus_isolepis,2/0 x 4mm,,2,,,,
+L,2364,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 5-6mm,,2,,,,
+L,2374,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+L,2385,Ctenophorus,isolepis,Ctenophorus_isolepis,3/2x 3mm,,5,,,,
+L,2386,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1x 3mm,,3,,,,
+L,2391,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 5-8mm,,3,,,,
+L,2429,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 3mm,,3,,,,
+L,2432,Ctenophorus,isolepis,Ctenophorus_isolepis,3/2 x 3mm,,5,,,,
+L,2606,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3-3.5mm,,4,,,,
+L,2630,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 4mm,,4,,,,
+L,2807,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 6mm,,2,,,,
+L,2808,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 2.5-3mm,,4,,,,
+L,2825,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+L,2827,Ctenophorus,isolepis,Ctenophorus_isolepis,3/1 x 3mm,,4,,,,
+L,2844,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 3mm,,2,,,,
+L,2857,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 2.5-3mm,,3,,,,
+L,2866,Ctenophorus,isolepis,Ctenophorus_isolepis,2/0 x 3.5mm,,2,,,,
+L,2874,Ctenophorus,isolepis,Ctenophorus_isolepis,3/0 x 3mm,,3,,,,
+L,2875,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 4mm,,3,,,,
+L,2876,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3-3.5mm,,3,,,,
+L,2880,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 3mm,,3,,,,
+L,2933,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 5mm,,4,,,,
+L,2950,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+L,2959,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 3mm,,2,,,,
+L,2985,Ctenophorus,isolepis,Ctenophorus_isolepis,0/2 x 5mm,,2,,,,
+L,2989,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 5mm,,4,,,,
+L,2991,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 4mm,,3,,,,
+L,3024,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 4mm,,4,,,,
+L,3026,Ctenophorus,isolepis,Ctenophorus_isolepis,2/3 x 4-5mm,,5,,,,
+L,3030,Ctenophorus,isolepis,Ctenophorus_isolepis,5/2 x 5mm,,7,,,,
+L,3034,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 4-6mm,,2,,,,
+L,3042,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 5mm,,4,,,,
+L,3046,Ctenophorus,isolepis,Ctenophorus_isolepis,2/0 x 5mm,,2,,,,
+L,3078,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 5mm,,2,,,,
+L,3090,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 6-9mm,,2,,,,
+L,3091,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 4mm,,3,,,,
+L,3115,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 5-5.5mm,,2,,,,
+L,3169,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x8-9mm,,4,,,,
+L,3275,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 11mm,2,0.35,,,
+L,3291,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 12-13mm,5,1.75,,,
+L,3299,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 10-13mm,4,1.35,,,
+L,3300,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x 11-13mm,3,0.95,,,
+L,3310,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 11-12mm,4,1.45,,,
+L,3319,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 14mm,4,0.8,,,
+L,3339,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x13-15mm,4,1.2,,,
+L,3345,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 15mm,4,2,,,
+L,3349,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 13-14mm,4,1.25,,,
+L,3390,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 3mm,,2,,,,
+L,3393,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x3-4mm,,3,,,,
+L,3396,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/2 x 13mm,3,0.93,,,
+L,3416,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x9-15mm,3,0.96,,,
+L,3417,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x 14-25mm,3,0.97,,,
+L,3440,Ctenophorus,isolepis,Ctenophorus_isolepis,0/2 x 6mm,,2,,,,
+L,3586,Ctenophorus,isolepis,Ctenophorus_isolepis,0/3 x 4-5mm,,3,,,,
+R,1174,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 11-12mm,4,0.54,,,
+R,1446,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 12mm,2,0.75,,,
+R,1455,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 11-12mm,2,0.65,,,
+R,1537,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 8mm,,4,,,,
+R,1544,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 8mm,,4,,,,
+R,1545,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 8mm,,3,,,,
+R,1558,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 14-15mm,2,0.7,,,
+R,1560,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 6mm,,4,,,,
+R,1574,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 6mm,,2,,,,
+R,1577,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 5mm,,2,,,,
+R,1607,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/1 x 11mm,3,0.95,,,
+R,1803,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 18-19mm,2,0.95,,,
+R,1812,Ctenophorus,isolepis,Ctenophorus_isolepis,,2/2 x 13mm,4,0.75,,,
+R,1914,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 11-16mm,2,0.95,,,
+R,1935,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+R,2008,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+R,2207,Ctenophorus,isolepis,Ctenophorus_isolepis,1/0 x 10mm,,1,,,,
+R,2208,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 5mm,2,,,,
+R,2217,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+R,2273,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 3mm,,3,,,,
+R,2289,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 12mm,2,0.9,,,
+R,2307,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+R,2322,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 10-15mm,2,0.8,,,
+R,2470,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+R,2494,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+R,2496,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+R,2518,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 4mm,,4,,,,
+R,2531,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 3mm,,4,,,,
+R,2536,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 4mm,,3,,,,
+R,2582,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+R,2705,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 3mm,,3,,,,
+R,2713,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 3mm,,2,,,,
+R,2723,Ctenophorus,isolepis,Ctenophorus_isolepis,2/2 x 4-5mm,,4,,,,
+R,2750,Ctenophorus,isolepis,Ctenophorus_isolepis,1/2 x 5mm,,3,,,,
+R,3235,Ctenophorus,isolepis,Ctenophorus_isolepis,,1/1 x 11-15mm,2,0.65,,,
+R,3697,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 3mm,,2,,,,
+R,3744,Ctenophorus,isolepis,Ctenophorus_isolepis,2/1 x 5-6mm,,3,,,,
+R,3766,Ctenophorus,isolepis,Ctenophorus_isolepis,1/1 x 4mm,,2,,,,
+I,9888,Ctenophorus,isolepis,Ctenophorus_isolepis,,,4,1.45,9.5,66,0.152631579
+E,12162,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.05,7.7,56,0.136363636
+E,12238,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.6,6,54,0.1
+E,12258,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.8,8,55,0.1
+E,12269,Ctenophorus,isolepis,Ctenophorus_isolepis,,,2,0.7,7.7,56,0.090909091
+E,12286,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.95,7,56,0.135714286
+E,12296,Ctenophorus,isolepis,Ctenophorus_isolepis,,,4,1.2,9.2,60,0.130434783
+E,12308,Ctenophorus,isolepis,Ctenophorus_isolepis,,,2,0.8,7.2,57,0.111111111
+G,12354,Ctenophorus,isolepis,Ctenophorus_isolepis,,,4,0.8,8.5,57,0.094117647
+G,12356,Ctenophorus,isolepis,Ctenophorus_isolepis,,,2,0.63,8,54,0.07875
+G,12359,Ctenophorus,isolepis,Ctenophorus_isolepis,,,2,0.63,7.2,57,0.0875
+G,12379,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.65,6.5,56,0.1
+G,12382,Ctenophorus,isolepis,Ctenophorus_isolepis,,,2,0.6,7.5,59,0.08
+G,12388,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.85,8,59,0.10625
+S,12585,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.9,8.7,61,0.103448276
+M,12618,Ctenophorus,isolepis,Ctenophorus_isolepis,,,5,1.5,10,61,0.15
+M,12620,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.45,9.5,61,0.152631579
+M,12621,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.1,11,64,0.1
+M,12662,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.2,11.7,65,0.102564103
+N,12943,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.05,8,58,0.13125
+G,12966,Ctenophorus,isolepis,Ctenophorus_isolepis,,,2,0.63,8.5,58,0.074117647
+G,13006,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.8,7.2,56,0.111111111
+G,13047,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.9,7,55,0.128571429
+N,13081,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.65,6.5,56,0.1
+M,13313,Ctenophorus,isolepis,Ctenophorus_isolepis,,,4,1.75,11.7,60,0.14957265
+G,10326,Ctenophorus,isolepis,Ctenophorus_isolepis,,,5,1.46,8.5,63,0.171764706
+G,10335,Ctenophorus,isolepis,Ctenophorus_isolepis,,,6,1.75,9.2,65,0.190217391
+G,10371,Ctenophorus,isolepis,Ctenophorus_isolepis,,,5,1.38,8.5,63,0.162352941
+G,10386,Ctenophorus,isolepis,Ctenophorus_isolepis,,,4,1.6,8.5,63,0.188235294
+G,10396,Ctenophorus,isolepis,Ctenophorus_isolepis,,,6,1.25,9.2,65,0.135869565
+G,10407,Ctenophorus,isolepis,Ctenophorus_isolepis,,,6,1.59,9,64,0.176666667
+I,10427,Ctenophorus,isolepis,Ctenophorus_isolepis,,,4,1.3,7.5,56,0.173333333
+L,10761,Ctenophorus,isolepis,Ctenophorus_isolepis,,,4,1.26,10.5,57,0.12
+L,10857,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,0.95,8,56,0.11875
+M,13336,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.45,9.7,61,0.149484536
+M,13344,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.5,9.5,60,0.157894737
+M,13366,Ctenophorus,isolepis,Ctenophorus_isolepis,,,4,0.8,11.5,65,0.069565217
+D,13442,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.2,8.8,60,0.136363636
+D,13464,Ctenophorus,isolepis,Ctenophorus_isolepis,,,3,1.8,9.5,58,0.189473684
+A,10542,Ctenophorus,nuchalis,Ctenophorus_nuchalis,,,5,4.6,42.5,,0.108
+A,10576,Ctenophorus,nuchalis,Ctenophorus_nuchalis,,,6,6.4,40,,0.16
+A,10621,Ctenophorus,nuchalis,Ctenophorus_nuchalis,,,5,6.8,33,,0.206
+S,12592,Ctenophorus,nuchalis,Ctenophorus_nuchalis,,,5,6.3,32,,0.197
+A,12789,Ctenophorus,nuchalis,Ctenophorus_nuchalis,,,5,5.87,35.2,,0.167
+M,13369,Ctenophorus,nuchalis,Ctenophorus_nuchalis,,,5,3.5,30.5,,0.115
+I,13590,Ctenophorus,nuchalis,Ctenophorus_nuchalis,,,3,2.1,14.7,,0.143
+,9903,Ctenophorus,reticulatus,Ctenophorus_reticulatus,2/1 x 6mm,,3,,,,
+,10004,Ctenophorus,reticulatus,Ctenophorus_reticulatus,,2/4 x 19mm,6,,,,
+,10155,Ctenophorus,reticulatus,Ctenophorus_reticulatus,,2/1 x 19mm,3,,,,
+Y,12326,Ctenophorus,reticulatus,Ctenophorus_reticulatus,,2/2 x 19mm,4,3.31,17.5,,0.189
+Y,12327,Ctenophorus,reticulatus,Ctenophorus_reticulatus,3/2 x 6mm,,5,,,,
+Y,12441,Ctenophorus,reticulatus,Ctenophorus_reticulatus,,2/2 x15mm,4,2.4,13,,0.185
+Y,12440,Ctenophorus,reticulatus,Ctenophorus_reticulatus,,1/2 x 18mm,3,2.45,12.2,,0.201
+A,10019,Ctenophorus,scutulatus,Ctenophorus_scutulatus,2/3 x 4mm,,5,,,,
+A,10526,Ctenophorus,scutulatus,Ctenophorus_scutulatus,3/4 x 8mm,,7,,,,
+A,10543,Ctenophorus,scutulatus,Ctenophorus_scutulatus,,4/4 x 17mm,8,5.53,39,,0.142
+A,13265,Ctenophorus,scutulatus,Ctenophorus_scutulatus,2/3 x 16mm,,5,,,,
+Y,13640,Ctenophorus,scutulatus,Ctenophorus_scutulatus,3/3 x 6mm,,6,,,,
+L,10802,Ctenotus,ariadnae,Ctenotus_ariadnae,2/2  x 4.0,,4,,5,69,
+B,27342,Ctenotus,ariadnae,Ctenotus_ariadnae,3/0 x 3.75,,3,,5,64,
+B,27576,Ctenotus,ariadnae,Ctenotus_ariadnae,2/1 x 3,,3,,4.7,62,
+B,2312,Ctenotus,ariadnae,Ctenotus_ariadnae,2/2 x 3.5,,4,,5.2,63,
+A,10527,Ctenotus,atlas,Ctenotus_atlas,1/1 x 7.5mm,,2,,,,
+A,10549,Ctenotus,atlas,Ctenotus_atlas,,1/0 x 10mm,1,,,,
+R,1786,Ctenotus,brooksi,Ctenotus_brooksi,3/3 x 5.5 ??,,6,,,,
+R,24330,Ctenotus,brooksi,Ctenotus_brooksi,,1/1 x 0.25,2,0.5,1.8,48,0.278
+R,25127,Ctenotus,brooksi,Ctenotus_brooksi,1/1 x 4.5,,2,,2.2,51,
+R,25418,Ctenotus,brooksi,Ctenotus_brooksi,1/1 x 6,,2,,2.2,46,
+R,25426,Ctenotus,brooksi,Ctenotus_brooksi,1/1 x 3,,2,,2,47,
+R,26643,Ctenotus,brooksi,Ctenotus_brooksi,1/1 x 7,,2,,1.9,44,
+R,27240,Ctenotus,brooksi,Ctenotus_brooksi,1/1 x 3,,2,,1.8,48,
+R,27273,Ctenotus,brooksi,Ctenotus_brooksi,,1/1 x 0.35,2,0.7,1.9,48,0.368
+R,27333,Ctenotus,brooksi,Ctenotus_brooksi,1/1 x 7,,2,,2.2,50,
+I,9765,Ctenotus,calurus,Ctenotus_calurus,1/1 x 3.0,,2,,,,
+I,9870,Ctenotus,calurus,Ctenotus_calurus,1/1 x 2.0,,2,,,,
+G,10373,Ctenotus,calurus,Ctenotus_calurus,2/0 x 2.0,,2,,,,
+E,12928,Ctenotus,calurus,Ctenotus_calurus,2/2 x 2.0,,4,,1.2,43,
+D,13440,Ctenotus,calurus,Ctenotus_calurus,2/2 x 2.0,,4,,2.7,51,
+D,13461,Ctenotus,calurus,Ctenotus_calurus,1/1 x 3.0,,2,,2.2,48,
+L,23635,Ctenotus,calurus,Ctenotus_calurus,2 x 3mm,,2,,2.3,51,
+L,24193,Ctenotus,calurus,Ctenotus_calurus,1/0 x 6.5,,1,,1.8,47,
+L,24207,Ctenotus,calurus,Ctenotus_calurus,1/0 x 7,,1,,2,45,
+L,25335,Ctenotus,calurus,Ctenotus_calurus,0/1 x 5,,1,,1.6,45,
+L,25596,Ctenotus,calurus,Ctenotus_calurus,1/1 x 3,,2,,1.6,45,
+B,26989,Ctenotus,calurus,Ctenotus_calurus,3 x 3mm,,3,,2.4,48,
+B,27024,Ctenotus,calurus,Ctenotus_calurus,1/1 x 3.5,,2,,2.5,50,
+L,27100,Ctenotus,calurus,Ctenotus_calurus,2 x 3mm,,2,,2.05,49,
+L,27101,Ctenotus,calurus,Ctenotus_calurus,2/0 x 5,,2,,2.3,48,
+L,27129,Ctenotus,calurus,Ctenotus_calurus,2/0 x 6,,2,,2.6,50,
+L,27705,Ctenotus,calurus,Ctenotus_calurus,1/1 x 6,,2,,1.9,48,
+L,27807,Ctenotus,calurus,Ctenotus_calurus,2/0 x 4,,2,,2.1,49,
+B,27904,Ctenotus,calurus,Ctenotus_calurus,1/0 x 8,,1,,2,52,
+L,28433,Ctenotus,calurus,Ctenotus_calurus,,1/0 x 0.2,1,0.2,1.8,46,0.111111111
+B,33892,Ctenotus,calurus,Ctenotus_calurus,,2/0 x ?,2,,1.6,44,
+L,27731,Ctenotus,calurus,Ctenotus_calurus,,1/0 x ?,1,0.3,2.3,52,0.13043478
+R,23668,Ctenotus,dux,Ctenotus_dux,2/1 x 8,,3,,7.3,66,
+R,23675,Ctenotus,dux,Ctenotus_dux,2/1 x 3,,3,,6.7,66,
+R,23718,Ctenotus,dux,Ctenotus_dux,2/1 x 6,,3,,6.9,65,
+R,23771,Ctenotus,dux,Ctenotus_dux,,1/1 x 0.5,2,1,5.2,63,0.192307692
+R,24156,Ctenotus,dux,Ctenotus_dux,2/2 x 3,,4,,7.2,64,
+R,27941,Ctenotus,dux,Ctenotus_dux,2/0 x 5,,2,,7.5,67,
+R,28074,Ctenotus,dux,Ctenotus_dux,1/2 x 5,,3,,7.3,65,
+R,28121,Ctenotus,dux,Ctenotus_dux,1/1 x 8,,2,,7.4,67,
+R,28174,Ctenotus,dux,Ctenotus_dux,1/1 x 8,,2,,7.7,64,
+R,28185,Ctenotus,dux,Ctenotus_dux,0/2 x 7,,2,,6.2,64,
+R,29900,Ctenotus,dux,Ctenotus_dux,2/2 x 3,,4,,9.5,71,
+R,30617,Ctenotus,dux,Ctenotus_dux,1/2 x 4-6,,3,,5,62,
+L,25587,Ctenotus,grandis,Ctenotus_grandis,,2/2 x 1.4,4,5.6,24.6,107,0.228
+B,27220,Ctenotus,grandis,Ctenotus_grandis,2/2 x 4-5,,4,,8.1,75,
+B,27553,Ctenotus,grandis,Ctenotus_grandis,2/1 x 3-4,,3,,9,79,
+B,28023,Ctenotus,grandis,Ctenotus_grandis,1/2 x 3,,3,,7,74,
+B,26929,Ctenotus,hanloni,Ctenotus_hanloni,0.5,,1,,5.3,65,
+B,27204,Ctenotus,hanloni,Ctenotus_hanloni,0.5,,1,,7.9,67,
+B,27220,Ctenotus,hanloni,Ctenotus_hanloni,"0.4,0.4,0.4,0.4,0.5",,5,,8.1,75,
+B,27313,Ctenotus,hanloni,Ctenotus_hanloni,,,1,,4.9,66,
+B,27562,Ctenotus,hanloni,Ctenotus_hanloni,"0.5,0.5,0.5",,3,,5.3,68,
+B,28058,Ctenotus,hanloni,Ctenotus_hanloni,"0.5,0.5",,2,,4.3,71,
+B,28743,Ctenotus,hanloni,Ctenotus_hanloni,2/2 x,,4,,2.9,52,
+,24209,Ctenotus,helenae,Ctenotus_helenae,2/2 x 8,,4,,14.6,85,
+R,25986,Ctenotus,helenae,Ctenotus_helenae,2/3 x 3,,5,,9.5,81,
+G,10411,Ctenotus,helenae,Ctenotus_helenae,3/3 x 3.0,,6,,,93,
+G,10414,Ctenotus,helenae,Ctenotus_helenae,7/3 x 3.0,,10,,,93,
+L,10656,Ctenotus,helenae,Ctenotus_helenae,3/3 x 3.0,,6,,19,95,
+L,10661,Ctenotus,helenae,Ctenotus_helenae,2/2 x 3.0,,4,,15.5,87,
+L,10693,Ctenotus,helenae,Ctenotus_helenae,1/3 x 3.0,,4,,16,92,
+L,10703,Ctenotus,helenae,Ctenotus_helenae,2/1 x 3.0,,3,,16.5,92,
+L,10705,Ctenotus,helenae,Ctenotus_helenae,1/2 x 3.0,,3,,16.5,87,
+L,10715,Ctenotus,helenae,Ctenotus_helenae,,1 x 16.0,1,,15.5,89,
+L,10735,Ctenotus,helenae,Ctenotus_helenae,3/2 x 4.0,,5,,16.5,90,
+L,10736,Ctenotus,helenae,Ctenotus_helenae,2/1 x 4.0,,3,,18.5,98,
+L,10785,Ctenotus,helenae,Ctenotus_helenae,2/0 x 7.0,,2,,14,87,
+L,10837,Ctenotus,helenae,Ctenotus_helenae,2/1 x 3.0,,3,,14.5,85,
+L,10840,Ctenotus,helenae,Ctenotus_helenae,1/1 x 3.0,,2,,17,88,
+L,10846,Ctenotus,helenae,Ctenotus_helenae,2/1 x 6.0,,3,,18.5,93,
+L,10851,Ctenotus,helenae,Ctenotus_helenae,2/1 x 3.0,,3,,15,90,
+L,11036,Ctenotus,helenae,Ctenotus_helenae,1/2 x 3.0,,3,,21,94,
+G,13052,Ctenotus,helenae,Ctenotus_helenae,2/3 x 3.0,,5,,13,88,
+D,13443,Ctenotus,helenae,Ctenotus_helenae,2/3 x 2.5,,5,,11.5,86,
+E,12097,Ctenotus,leae,Ctenotus_leae,2/2 x 2.0,,4,,5.5,63,
+E,12247,Ctenotus,leae,Ctenotus_leae,4/0 x 2.0,,4,,4,58,
+E,12252,Ctenotus,leae,Ctenotus_leae,1/1 x 3.0,,2,,4.7,61,
+E,13145,Ctenotus,leae,Ctenotus_leae,1/1 x 3.5,,2,,4.5,63,
+I,10164,Ctenotus,leonhardii,Ctenotus_leonhardii,1/2 x 3.0,,3,,,,
+Y,10436,Ctenotus,leonhardii,Ctenotus_leonhardii,3/4 x 3.0,,7,,,68,
+A,10504,Ctenotus,leonhardii,Ctenotus_leonhardii,,1/1 x 7.0,2,,12,85,
+A,10628,Ctenotus,leonhardii,Ctenotus_leonhardii,1/3 x 2.0,,4,,11,78,
+A,10630,Ctenotus,leonhardii,Ctenotus_leonhardii,0/3 x 3.0,,3,,10,83,
+A,10631,Ctenotus,leonhardii,Ctenotus_leonhardii,3/1 x 2.0,,4,,12,83,
+A,13626,Ctenotus,leonhardii,Ctenotus_leonhardii,4/4 x 2.0,,8,,7,70,
+I,13633,Ctenotus,leonhardii,Ctenotus_leonhardii,3/4 x 3.0,,7,,8.5,80,
+I,13635,Ctenotus,leonhardii,Ctenotus_leonhardii,4/3 x 2.0,,7,,8.2,79,
+R,3746,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x ?,2,0.3,1.69,46,0.1875
+R,23081,Ctenotus,nasutus,Ctenotus_nasutus,1/1 x 4,,2,,1.4,41,
+R,23201,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.7,46,0.235
+R,23202,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.175,2,0.35,1.5,44,0.233
+R,23377,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.5,45,0.267
+R,23665,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.5,45,0.267
+R,25327,Ctenotus,nasutus,Ctenotus_nasutus,1/1 x 5.5,,2,,1.5,45,
+R,25493,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.2,42,0.333
+R,25523,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.15,2,0.3,1.5,44,0.2
+R,25551,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.4,44,0.286
+B,27669,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.4,45,0.286
+R,27938,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.5,44,0.267
+R,28137,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.7,46,0.235
+R,28139,Ctenotus,nasutus,Ctenotus_nasutus,,1/0 x 0.3,1,0.3,1.6,46,0.188
+R,28150,Ctenotus,nasutus,Ctenotus_nasutus,,1/0 x 0.2,1,0.2,1.4,45,0.138
+R,28228,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.2,42,0.32
+R,28249,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.2,2,0.4,1.5,44,0.267
+R,28317,Ctenotus,nasutus,Ctenotus_nasutus,,1/1 x 0.175,2,0.35,1.4,44,0.241
+L,2390,Ctenotus,pantherinus,Ctenotus_pantherinus,,3/3 x 17.0,6,2.1,13.5,88,0.156
+R,1165,Ctenotus,pantherinus,Ctenotus_pantherinus,1/1 x 9.0,,2,,19.4,95,
+R,1956,Ctenotus,pantherinus,Ctenotus_pantherinus,,2/2 x 20,4,1.81,14.8,93,0.122
+R,2500,Ctenotus,pantherinus,Ctenotus_pantherinus,,4/2 x 19,6,3.3,15,90,0.22
+R,2557,Ctenotus,pantherinus,Ctenotus_pantherinus,2/4 x 6.0,,6,,16,93,
+R,3226,Ctenotus,pantherinus,Ctenotus_pantherinus,1/3 x 5.0,,4,,22.2,97,
+R,3249,Ctenotus,pantherinus,Ctenotus_pantherinus,,3/1 x 14.0,4,2.14,17.7,92,0.121
+I,9880,Ctenotus,pantherinus,Ctenotus_pantherinus,2/1 x 10.0,,3,,,92,
+I,9908,Ctenotus,pantherinus,Ctenotus_pantherinus,2/2 x 5.0,,4,,,85,
+G,10294,Ctenotus,pantherinus,Ctenotus_pantherinus,,4/3 x 14.5,7,2.7,20.9,96,0.129
+G,10301,Ctenotus,pantherinus,Ctenotus_pantherinus,,4/2 x 19.0,6,3.8,20.8,95,0.183
+G,10314,Ctenotus,pantherinus,Ctenotus_pantherinus,,4/3 x 14.5,7,2.75,17.8,93,0.155
+G,10339,Ctenotus,pantherinus,Ctenotus_pantherinus,,4/3 x 16.0,7,3.6,16.1,91,0.224
+G,10417,Ctenotus,pantherinus,Ctenotus_pantherinus,,5/3 x 17.0,8,4.5,22.7,96,0.198
+A,10524,Ctenotus,pantherinus,Ctenotus_pantherinus,5/4 x 8.0,,9,,22.5,99,
+G,12977,Ctenotus,pantherinus,Ctenotus_pantherinus,4/3 x 3.0,,7,,15.2,87,
+M,13371,Ctenotus,pantherinus,Ctenotus_pantherinus,2/2 x 3.0,,4,,12.5,83,
+M,13342,Ctenotus,pantherinus,Ctenotus_pantherinus,,2/3 x 12.0,5,3.3,23.7,98,0.139
+L,24288,Ctenotus,pantherinus,Ctenotus_pantherinus,1/2 X 4,,3,,9.8,75,
+R,24456,Ctenotus,pantherinus,Ctenotus_pantherinus,,3/3 x 0.6,6,3.7,15.8,91,0.234177215
+L,25876,Ctenotus,pantherinus,Ctenotus_pantherinus,3/2 x 3.5,,5,,16.9,88,
+L,26097,Ctenotus,pantherinus,Ctenotus_pantherinus,3/2 x 3,,5,,14.5,85,
+L,26181,Ctenotus,pantherinus,Ctenotus_pantherinus,4/3 X 6,,7,,18.6,80,
+B,26974,Ctenotus,pantherinus,Ctenotus_pantherinus,2/2 x 6,,4,,12.8,80,
+B,26974,Ctenotus,pantherinus,Ctenotus_pantherinus,3/2 x 4mm,,5,,12.8,80,
+B,2401,Ctenotus,pantherinus,Ctenotus_pantherinus,2/4 x 3-5,,6,,11.2,84,
+B,2407,Ctenotus,pantherinus,Ctenotus_pantherinus,2/3 x 4-6,,5,,11.4,86,
+B,2495,Ctenotus,pantherinus,Ctenotus_pantherinus,3/2 x 13-15,,5,2.3,14.8,87,
+B,28730,Ctenotus,pantherinus,Ctenotus_pantherinus,3/2 x,,5,1.5,15,84,0.1
+B,28832,Ctenotus,pantherinus,Ctenotus_pantherinus,4/1 x 4,,5,,13.7,84,
+B,29130,Ctenotus,pantherinus,Ctenotus_pantherinus,3/3 x 15-16,,6,3,13.4,89,0.223880597
+L,27825,Ctenotus,pantherinus,Ctenotus_pantherinus,4/3 x,,7,3.3,17.25,98,0.191304348
+B,32305,Ctenotus,pantherinus,Ctenotus_pantherinus,3/2 x 5,,5,,12.1,83,
+B,33941,Ctenotus,pantherinus,Ctenotus_pantherinus,1/1 x 3,,2,,10.4,75,
+B,33989,Ctenotus,pantherinus,Ctenotus_pantherinus,3/2 x 3-6,,5,,12.6,80,
+B,34125,Ctenotus,pantherinus,Ctenotus_pantherinus,2/2 x 4-5,,4,,13.3,88,
+R,23864,Ctenotus,piankai,Ctenotus_piankai,,,1,,2.2,53,
+R,23117,Ctenotus,piankai,Ctenotus_piankai,1/1 x 4,,2,,2,48,
+R,23435,Ctenotus,piankai,Ctenotus_piankai,,1/1 x 0.2,2,0.4,2.4,48,0.167
+R,23435,Ctenotus,piankai,Ctenotus_piankai,,1/1 x 0.2,2,0.6,2.4,48,0.25
+R,23507,Ctenotus,piankai,Ctenotus_piankai,2/1 x 2.75,,3,,2.9,54,
+R,27373,Ctenotus,piankai,Ctenotus_piankai,2/1 x 6,,3,,3.5,56,
+B,27434,Ctenotus,piankai,Ctenotus_piankai,1/2 x 5,,3,,2.9,53,
+R,27512,Ctenotus,piankai,Ctenotus_piankai,1/2 x 3,,3,,2.8,53,
+B,27575,Ctenotus,piankai,Ctenotus_piankai,2/1 x 4,,3,,3.1,53,
+B,27611,Ctenotus,piankai,Ctenotus_piankai,2/0 x 5,,2,,2.1,50,
+L,27838,Ctenotus,piankai,Ctenotus_piankai,2/1 x 3,,3,,2.5,53,
+R,27976,Ctenotus,piankai,Ctenotus_piankai,2/1 x 7,,3,,2.5,51,
+B,28162,Ctenotus,piankai,Ctenotus_piankai,1/1 x 5,,2,,2.4,53,
+B,28162,Ctenotus,piankai,Ctenotus_piankai,2/1 x 3,,3,,2.4,53,
+R,28303,Ctenotus,piankai,Ctenotus_piankai,1/1 x 5,,2,,2.5,53,
+R,28303,Ctenotus,piankai,Ctenotus_piankai,1/2 x 3,,3,,2.5,53,
+B,28326,Ctenotus,piankai,Ctenotus_piankai,1/2 x 5,,3,,2.7,55,
+R,28356,Ctenotus,piankai,Ctenotus_piankai,2 x 3mm,,2,,2.5,53,
+R,29245,Ctenotus,piankai,Ctenotus_piankai,1/1 x 3,,2,,2.9,53,
+R,30056,Ctenotus,piankai,Ctenotus_piankai,1/2 x 4-5,,3,,2.5,50,
+R,30146,Ctenotus,piankai,Ctenotus_piankai,1/1 x 5,,2,,2.4,50,
+R,30215,Ctenotus,piankai,Ctenotus_piankai,1/1 x 4,,2,,2.2,53,
+R,30373,Ctenotus,piankai,Ctenotus_piankai,,2/1 x Ovid,3,0.8,2.9,55,0.276
+R,1071,Ctenotus,quatt,Ctenotus_quatt,2/2 x 3.0,,4,,7.4,71,
+R,1085,Ctenotus,quatt,Ctenotus_quatt,1/2 x 2.5,,3,,5.4,67,
+R,1102,Ctenotus,quatt,Ctenotus_quatt,3/2 x 2.0,,5,,6.5,66,
+R,1114,Ctenotus,quatt,Ctenotus_quatt,,1/2 x 5.0,3,0.22,6.7,66,0.032835821
+R,1125,Ctenotus,quatt,Ctenotus_quatt,0/2 x 3.5,,2,,5.7,67,
+B,2111,Ctenotus,quatt,Ctenotus_quatt,2/1 x 4,,3,,6.4,67,
+R,2315,Ctenotus,quatt,Ctenotus_quatt,3/3 x 2.0,,6,,4.9,65,
+L,2205,Ctenotus,quatt,Ctenotus_quatt,,2/1 x 6.5,3,0.21,5.4,64,0.038888889
+L,3084,Ctenotus,quatt,Ctenotus_quatt,3/2 x 3.0,,5,,7.8,69,
+B,27315,Ctenotus,quatt,Ctenotus_quatt,2/3 x 4,,5,,9.2,71,
+B,27746,Ctenotus,quatt,Ctenotus_quatt,2/0 x 7,,2,,5.4,66,
+B,27999,Ctenotus,quatt,Ctenotus_quatt,2/1 x 5,,3,,7.9,69,
+R,28227,Ctenotus,quatt,Ctenotus_quatt,,1/1 x 0.6,2,1.2,5.9,70,0.203389831
+B,32045,Ctenotus,quatt,Ctenotus_quatt,2/1 x 4-5,,3,,7.1,64,
+B,32089,Ctenotus,quatt,Ctenotus_quatt,2/1 x 4,,3,,7.2,68,
+B,32165,Ctenotus,quatt,Ctenotus_quatt,2/2 x 5-6,,4,,8,69,
+B,32430,Ctenotus,quatt,Ctenotus_quatt,1/2 x 4-5,,3,,5.5,64,
+B,32940,Ctenotus,quatt,Ctenotus_quatt,2/1 x 3,,3,,6,66,
+B,33454,Ctenotus,quatt,Ctenotus_quatt,2/2 x 4-6,,4,,7.7,68,
+B,33828,Ctenotus,quatt,Ctenotus_quatt,2/2 x 5,,4,,7.7,69,
+B,33886,Ctenotus,quatt,Ctenotus_quatt,1/1 x 8-9,,2,,6.8,65,
+B,33914,Ctenotus,quatt,Ctenotus_quatt,1/2 x 5-7,,3,,6.2,63,
+A,10089,Ctenotus,schomburgkii,Ctenotus_schomburgkii,1/1 x 2.0,,2,,,,
+I,10291,Ctenotus,schomburgkii,Ctenotus_schomburgkii,0/2 x 2.0,,2,,,43,
+A,10558,Ctenotus,schomburgkii,Ctenotus_schomburgkii,,2/2 x 7.0,4,0.6,2.5,50,0.24
+A,12544,Ctenotus,schomburgkii,Ctenotus_schomburgkii,1/2 x 2.0,,3,,3,54,
+A,13241,Ctenotus,schomburgkii,Ctenotus_schomburgkii,1/2 x 2.5,,3,,2.5,51,
+I,13565,Ctenotus,schomburgkii,Ctenotus_schomburgkii,2/2 x 2.0,,2,,2,52,
+L,25942,Ctenotus,schomburgkii,Ctenotus_schomburgkii,,,2,,2.3,51,
+L,27684,Ctenotus,schomburgkii,Ctenotus_schomburgkii,1/1 x 4,,2,,1.9,46,
+L,27710,Ctenotus,schomburgkii,Ctenotus_schomburgkii,1/1 x 6,,2,,2.5,53,
+L,27727,Ctenotus,schomburgkii,Ctenotus_schomburgkii,1 x8mm,,1,,1.5,42,
+E,12276,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1.6,14,83,0.114
+M,12611,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1.4,10.5,85,0.133
+M,12640,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,0.8,10.5,75,0.076
+M,12667,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1.4,10.2,78,0.137
+M,12677,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1.3,9,75,0.144
+M,12679,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,0.6,10,82,0.06
+E,12871,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,0.8,9.5,83,0.084
+M,13352,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,0.6,8,76,0.075
+I,13484,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1.1,8.7,79,0.126
+I,13523,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1,7.2,75,0.139
+I,13525,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1.02,7.3,80,0.14
+I,13528,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1.2,8.3,75,0.145
+I,13529,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,1.1,9.5,80,0.116
+I,13576,Diplodactylus,ciliaris,Diplodactylus_ciliaris,,,2,0.8,6.3,77,0.127
+E,12920,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,1.3,5.5,,0.236
+E,13125,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,1.3,5,,0.26
+M,13322,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,1,6,,0.167
+M,13330,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,1.2,6,,0.2
+M,13350,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,1.17,6.5,,0.18
+M,13358,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,0.8,5,,0.16
+D,13414,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,1.2,6.7,,0.179
+D,13428,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,1.5,7,,0.214
+G,12991,Diplodactylus,conspicillatus,Diplodactylus_conspicillatus,,,2,0.8,6.5,,0.123
+A,10596,Diplodactylus,elderi,Diplodactylus_elderi,,,2,0.35,2.5,,0.14
+A,12560,Diplodactylus,elderi,Diplodactylus_elderi,,,2,0.5,3.2,,0.156
+A,12561,Diplodactylus,elderi,Diplodactylus_elderi,,,2,0.4,3,,0.133
+,10285,Diplodactylus,pulcher,Diplodactylus_pulcher,,,1,0.41,4,,0.103
+A,13210,Diplodactylus,pulcher,Diplodactylus_pulcher,,,1,0.7,4,,0.175
+A,13220,Diplodactylus,pulcher,Diplodactylus_pulcher,,,2,1.1,5.2,,0.212
+A,13486,Diplodactylus,pulcher,Diplodactylus_pulcher,,,2,0.6,4,,0.15
+A,13575,Diplodactylus,pulcher,Diplodactylus_pulcher,,,2,0.45,4.8,,0.094
+A,12490,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,1.3,10,78,0.13
+A,12534,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,1.2,11,77,0.109
+A,12540,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.95,9.7,73,0.098
+S,12588,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.6,7,69,0.086
+S,12591,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.8,8.5,72,0.094
+D,12693,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.75,6,69,0.125
+D,12738,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,1,7,70,0.143
+A,12750,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,1.4,9.2,75,0.152
+A,12758,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.85,10,78,0.085
+A,13225,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.9,5.7,70,0.158
+A,13227,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.87,6.2,75,0.14
+A,13230,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.95,6.3,70,0.151
+A,13284,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,1.2,8.2,76,0.146
+A,13287,Diplodactylus,strophurus,Diplodactylus_strophurus,,,2,0.65,7.7,77,0.084
+D,13406,Diplodactyus,stenodactylus,Diplodactyus_stenodactylus,,,2,0.4,3.2,,0.125
+D,13407,Diplodactyus,stenodactylus,Diplodactyus_stenodactylus,,,2,0.45,4,,0.113
+D,13417,Diplodactyus,stenodactylus,Diplodactyus_stenodactylus,,,2,0.33,4.7,,0.07
+E,12166,Diporiphora,winneckei,Diporiphora_winneckei,1/1 x 2.5mm,,2,,,,
+E,12248,Diporiphora,winneckei,Diporiphora_winneckei,0/2 x 4mm,,2,,,,
+E,12895,Diporiphora,winneckei,Diporiphora_winneckei,,1/1 x 13mm,2,0.8,4,,0.2
+E,12896,Diporiphora,winneckei,Diporiphora_winneckei,,1/1 x 18mm,2,1.15,5,,0.23
+D,13436,Diporiphora,winneckei,Diporiphora_winneckei,2/1 x 3.5mm,,3,,,,
+R,1212,Egernia,inornata,Egernia_inornata,2/1 x 11mm,,3,,,,
+R,1234,Egernia,inornata,Egernia_inornata,1/1 x 11mm,,2,,,,
+R,1237,Egernia,inornata,Egernia_inornata,1/1 x 10-11mm,,2,,,,
+L,1372,Egernia,inornata,Egernia_inornata,2/1 x 10mm,,3,,,,
+R,1449,Egernia,inornata,Egernia_inornata,1/1 x 12mm,,2,,,,
+R,1783,Egernia,inornata,Egernia_inornata,,1/0 x 14mm,1,0.7,13.1,,0.053435115
+R,1796,Egernia,inornata,Egernia_inornata,,2/1 x 16mm,3,2.5,13.6,,0.183823529
+R,1821,Egernia,inornata,Egernia_inornata,,2/1 x 15mm,3,3,14.5,,0.206896552
+R,1853,Egernia,inornata,Egernia_inornata,,2/1 x 14-17mm,3,3.1,16.3,,0.190184049
+R,1915,Egernia,inornata,Egernia_inornata,,0/1 x 15mm,1,1,11.8,,0.084745763
+R,1930,Egernia,inornata,Egernia_inornata,,1/1 x 15-18mm,2,2.5,10,,0.25
+R,1955,Egernia,inornata,Egernia_inornata,,1/1 x 16-19mm,2,1.3,10.3,,0.126213592
+R,2006,Egernia,inornata,Egernia_inornata,,3/0 x 15-16mm,3,2.1,11.2,,0.1875
+R,3616,Egernia,inornata,Egernia_inornata,,1/1 x 13-17mm,2,1.1,15.4,,0.071428571
+R,3618,Egernia,inornata,Egernia_inornata,,1/1 x 15-17mm,2,1.55,13.5,,0.114814815
+R,3695,Egernia,inornata,Egernia_inornata,,1/1 x 12mm,2,1.1,12.8,,0.0859375
+R,3827,Egernia,inornata,Egernia_inornata,,1/0 x 22mm,1,1.3,12,,0.108333333
+R,3875,Egernia,inornata,Egernia_inornata,,1/1 x 17-19mm,2,2.4,16.4,,0.146341463
+R,4025,Egernia,inornata,Egernia_inornata,,1/1 x 17-18mm,2,2.6,14.6,,0.178082192
+R,4044,Egernia,inornata,Egernia_inornata,,1/0 x 18mm,1,1.3,12.8,,0.1015625
+G,10397,Egernia,inornata,Egernia_inornata,,1/0 x 11mm,1,,,,
+G,10405,Egernia,inornata,Egernia_inornata,0/1 x 7mm,,1,,,,
+E,12208,Egernia,inornata,Egernia_inornata,1/1 x 3mm,,2,,,,
+E,12257,Egernia,inornata,Egernia_inornata,2/1 x 8mm,,3,,,,
+Y,12443,Egernia,inornata,Egernia_inornata,1/1 x 9.5mm,,2,,,,
+Y,11144,Egernia,inornata,Egernia_inornata,,1/1 x 20mm,2,2,18,,0.111
+Y,11237,Egernia,inornata,Egernia_inornata,,1/1 x 18mm,2,2.25,14.5,,0.155
+Y,11238,Egernia,inornata,Egernia_inornata,,1/1 x 19mm,2,2,13.2,,0.152
+A,12496,Egernia,inornata,Egernia_inornata,,2/1 x 12mm,3,1.25,11.5,,0.109
+G,13055,Egernia,inornata,Egernia_inornata,,1/1 x 14mm,2,1.25,13.2,,0.095
+G,13058,Egernia,inornata,Egernia_inornata,,1/0 x 18mm,1,1,10,,0.1
+M,10176,Egernia,striata,Egernia_striata,,,3,4.25,38,,0.112
+M,10185,Egernia,striata,Egernia_striata,,,3,2.63,36,,0.073
+G,10308,Egernia,striata,Egernia_striata,,,2,3.5,36,,0.097
+G,10330,Egernia,striata,Egernia_striata,,,1,1.5,21.2,,0.071
+M,12597,Egernia,striata,Egernia_striata,,,4,2.5,28.5,,0.088
+M,12598,Egernia,striata,Egernia_striata,,,4,2.6,29,,0.09
+M,12619,Egernia,striata,Egernia_striata,,,4,2.7,33.7,,0.08
+M,12631,Egernia,striata,Egernia_striata,,,3,1.8,23.7,,0.076
+G,12986,Egernia,striata,Egernia_striata,,,3,2.55,26.2,,0.097
+G,13026,Egernia,striata,Egernia_striata,,,2,2,26,,0.077
+L,12469,Gehyra,variegata,Gehyra_variegata,,,1,0.19,3.7,58,0.051
+L,12474,Gehyra,variegata,Gehyra_variegata,,,1,0.2,4.7,55,0.043
+L,12477,Gehyra,variegata,Gehyra_variegata,,,1,0.2,6,60,0.033
+L,12482,Gehyra,variegata,Gehyra_variegata,,,1,0.28,4.7,57,0.06
+L,12835,Gehyra,variegata,Gehyra_variegata,,,1,0.3,5,57,0.06
+L,12840,Gehyra,variegata,Gehyra_variegata,,,1,0.2,4,53,0.05
+E,12858,Gehyra,variegata,Gehyra_variegata,,,1,0.2,5,57,0.04
+G,12348,Gehyra,variegata,Gehyra_variegata,,,1,0.19,4.5,57,0.042
+G,12350,Gehyra,variegata,Gehyra_variegata,,,1,0.19,4.2,60,0.045
+G,12950,Gehyra,variegata,Gehyra_variegata,,,1,0.2,4.5,55,0.044
+G,12953,Gehyra,variegata,Gehyra_variegata,,,1,0.2,4.2,55,0.048
+G,12956,Gehyra,variegata,Gehyra_variegata,,,1,0.2,4.7,57,0.043
+G,12957,Gehyra,variegata,Gehyra_variegata,,,1,0.2,5,57,0.04
+G,13015,Gehyra,variegata,Gehyra_variegata,,,1,0.19,4,55,0.048
+G,13063,Gehyra,variegata,Gehyra_variegata,,,1,0.2,5.7,60,0.035
+G,13068,Gehyra,variegata,Gehyra_variegata,,,1,0.28,6,59,0.047
+G,13072,Gehyra,variegata,Gehyra_variegata,,,1,0.2,5,57,0.04
+E,12912,Gehyra,variegata,Gehyra_variegata,,,1,0.19,3.5,52,0.054
+A,13207,Gehyra,variegata,Gehyra_variegata,,,1,0.2,2.5,48,0.08
+A,12754,Gehyra,variegata,Gehyra_variegata,,,1,0.15,3,45,0.05
+A,12770,Gehyra,variegata,Gehyra_variegata,,,1,0.18,3.2,48,0.056
+A,12793,Gehyra,variegata,Gehyra_variegata,,,1,0.19,3,46,0.063
+I,13516,Gehyra,variegata,Gehyra_variegata,,,1,0.19,2.2,46,0.086
+I,13658,Gehyra,variegata,Gehyra_variegata,,,1,0.2,2.2,45,0.091
+A,12572,Gehyra,variegata,Gehyra_variegata,,,1,0.1,3.5,45,0.029
+M,12603,Gehyra,variegata,Gehyra_variegata,,,1,0.1,2.2,45,0.045
+A,12744,Gehyra,variegata,Gehyra_variegata,,,1,0.19,2.7,46,0.07
+G,12402,Gehyra,variegata,Gehyra_variegata,,,1,0.2,4.5,58,0.044
+L,12467,Gehyra,variegata,Gehyra_variegata,,,1,0.19,4,56,0.048
+A,12755,Heteronotia,binoei,Heteronotia_binoei,,,2,0.3,2.5,,0.12
+A,13219,Heteronotia,binoei,Heteronotia_binoei,,,2,0.34,3.5,,0.097
+I,13677,Heteronotia,binoei,Heteronotia_binoei,,,2,0.2,2.5,,0.08
+R,795,Moloch,horridus,Moloch_horridus,3/2 x 9-10mm,,5,,,,
+R,875,Moloch,horridus,Moloch_horridus,3/4 x 3-7mm,,7,,,,
+R,882,Moloch,horridus,Moloch_horridus,5/3 x 9-13mm,,8,,,,
+R,944,Moloch,horridus,Moloch_horridus,,3/4 x 18-30mm,7,8.5,64,,0.1328125
+R,957,Moloch,horridus,Moloch_horridus,,5/3 x 17-25mm,8,8.5,60,,0.141666667
+R,958,Moloch,horridus,Moloch_horridus,,3/3 x 15-16mm,6,8,56,,0.142857143
+R,959,Moloch,horridus,Moloch_horridus,6/0 x 3-6mm,,6,,,,
+R,1080,Moloch,horridus,Moloch_horridus,6/4 x 3-6mm,,10,,,,
+R,1113,Moloch,horridus,Moloch_horridus,4/4 x 3mm,,8,,,,
+R,1185,Moloch,horridus,Moloch_horridus,6/1 x 3-5mm,,7,,,,
+R,1186,Moloch,horridus,Moloch_horridus,3/3 x 8mm,,6,,,,
+R,1214,Moloch,horridus,Moloch_horridus,2/4 x 8-10mm,,6,,,,
+R,1571,Moloch,horridus,Moloch_horridus,,2/3 x 18-19mm,5,7,49.8,,0.140562249
+R,1573,Moloch,horridus,Moloch_horridus,,4/4 x 17-22mm,8,8.5,55.2,,0.153985507
+R,1578,Moloch,horridus,Moloch_horridus,,3/3 x 20mm,6,9,62,,0.14516129
+R,1590,Moloch,horridus,Moloch_horridus,2/4 x 12-14mm,,6,,,,
+R,1788,Moloch,horridus,Moloch_horridus,2/2 x 3-4mm,,4,,,,
+R,1798,Moloch,horridus,Moloch_horridus,,4/5 x 13-22mm,9,8.5,54.7,,0.155393053
+R,1799,Moloch,horridus,Moloch_horridus,2/3 x 3-7mm,,5,,,,
+R,1820,Moloch,horridus,Moloch_horridus,2/1 x 6-7mm,,3,,,,
+R,1850,Moloch,horridus,Moloch_horridus,,4/4 x 20-25mm,8,8,59.8,,0.133779264
+R,1864,Moloch,horridus,Moloch_horridus,,5/4 x 17-20mm,9,14,52.2,,0.268199234
+R,1887,Moloch,horridus,Moloch_horridus,,3/2 x 18-20mm,5,3.5,41.6,,0.084134615
+R,1890,Moloch,horridus,Moloch_horridus,,2/2 x 20-26mm,4,4.1,32.7,,0.125382263
+R,1892,Moloch,horridus,Moloch_horridus,,5/5 x 10-21mm,8,10.5,60,,0.175
+R,1920,Moloch,horridus,Moloch_horridus,,3/3 x 19-20mm,6,6,48.5,,0.12371134
+R,1921,Moloch,horridus,Moloch_horridus,,5/6 x 19-22mm,11,11.6,72.1,,0.160887656
+R,2000,Moloch,horridus,Moloch_horridus,2/3 x 6-10mm,,5,,,,
+R,2001,Moloch,horridus,Moloch_horridus,,2/4 x 17-20mm,6,5.8,54,,0.107407407
+R,2002,Moloch,horridus,Moloch_horridus,,2/2 x 10-27mm,4,7,43.5,,0.16091954
+R,2007,Moloch,horridus,Moloch_horridus,1/3 x 5mm,,4,,,,
+R,3625,Moloch,horridus,Moloch_horridus,3/2 x 3mm,,5,,,,
+L,1708,Moloch,horridus,Moloch_horridus,,4/2 x 15-20mm,6,6.5,55,,0.118181818
+I,1828,Moloch,horridus,Moloch_horridus,,4/5 x 19-25mm,9,16.5,74.9,,0.220293725
+E,1832,Moloch,horridus,Moloch_horridus,3/3 x 10-11mm,,6,,,,
+E,1835,Moloch,horridus,Moloch_horridus,,2/3 x 20-21mm,5,7,40.5,,0.172839506
+M,10046,Moloch,horridus,Moloch_horridus,,,6,10.55,69,100,0.153
+,10067,Moloch,horridus,Moloch_horridus,,,5,12,65,92,0.185
+D,11781,Moloch,horridus,Moloch_horridus,,,6,7.6,76.5,109,0.099
+D,11896,Moloch,horridus,Moloch_horridus,,,8,10.95,69,100,0.159
+L,12041,Moloch,horridus,Moloch_horridus,,,7,11.75,88.5,97,0.133
+E,12128,Moloch,horridus,Moloch_horridus,,,9,13.5,72,97,0.188
+E,12172,Moloch,horridus,Moloch_horridus,,,8,12,65,90,0.185
+E,12173,Moloch,horridus,Moloch_horridus,,,8,6,48.5,89,0.124
+E,12174,Moloch,horridus,Moloch_horridus,,,5,5.65,43.5,86,0.13
+E,12265,Moloch,horridus,Moloch_horridus,,,7,7.55,52,86,0.145
+E,12310,Moloch,horridus,Moloch_horridus,,,10,15.25,63.7,93,0.239
+I,12488,Moloch,horridus,Moloch_horridus,,,8,13.1,70,103,0.187
+I,12489,Moloch,horridus,Moloch_horridus,,,5,7.75,50.2,91,0.154
+D,12706,Moloch,horridus,Moloch_horridus,,,3,4.5,33,86,0.136
+I,13175,Moloch,horridus,Moloch_horridus,,,7,12.5,88.7,106,0.141
+L,22815,Moloch,horridus,Moloch_horridus,,6/5 x 23-24mm,11,24.5,95.2,,0.257352941
+R,22857,Moloch,horridus,Moloch_horridus,,3/2 x 26mm,5,11,49.5,,0.222222222
+R,22907,Moloch,horridus,Moloch_horridus,,3/4 x16-17mm,7,7,48.6,,0.144032922
+R,23025,Moloch,horridus,Moloch_horridus,3/3 x 12mm,,6,,,,
+R,23052,Moloch,horridus,Moloch_horridus,3/4 x 10mm,,7,,,,
+D,11888,Nephrurus,laevissimus,Nephrurus_laevissimus,,,2,1.78,12.5,,0.142
+E,12863,Nephrurus,laevissimus,Nephrurus_laevissimus,,,2,2.15,13.5,,0.159
+E,13170,Nephrurus,laevissimus,Nephrurus_laevissimus,,,2,1.5,17.5,,0.086
+D,13408,Nephrurus,laevissimus,Nephrurus_laevissimus,,,2,2.75,14.7,,0.187
+D,13419,Nephrurus,laevissimus,Nephrurus_laevissimus,,,2,2.33,15,,0.155
+D,13448,Nephrurus,laevissimus,Nephrurus_laevissimus,,,2,2.58,14.2,,0.182
+D,13449,Nephrurus,laevissimus,Nephrurus_laevissimus,,,2,2,11,,0.182
+N,13083,Nephrurus,levis,Nephrurus_levis,,,2,3.25,20.5,,0.159
+,9775,Nephrurus,levis,Nephrurus_levis,,,2,3.25,20,,0.163
+,10634,Pogona,minor,Pogona_minor,,,9,12.3,49.5,115,0.248
+I,11988,Pogona,minor,Pogona_minor,,,7,11.95,68.5,117,0.174
+I,11989,Pogona,minor,Pogona_minor,,,8,13,62.5,120,0.208
+M,11991,Pogona,minor,Pogona_minor,,,12,17.55,83,127,0.211
+M,11992,Pogona,minor,Pogona_minor,,,10,16.9,86,128,0.197
+M,11993,Pogona,minor,Pogona_minor,,,9,14.9,83.5,130,0.178
+L,12039,Pogona,minor,Pogona_minor,,,9,17.98,80,131,0.225
+L,12040,Pogona,minor,Pogona_minor,,,3,3.5,42.5,107,0.082
+L,12042,Pogona,minor,Pogona_minor,,,8,12.85,72,124,0.178
+I,12066,Pogona,minor,Pogona_minor,,,9,12,77,118,0.156
+I,12071,Pogona,minor,Pogona_minor,,,7,11.45,48.5,112,0.236
+I,12073,Pogona,minor,Pogona_minor,,,12,18.04,85,130,0.212
+I,12075,Pogona,minor,Pogona_minor,,,10,13.3,65,120,0.205
+E,12122,Pogona,minor,Pogona_minor,,,9,10.2,57,116,0.179
+E,12140,Pogona,minor,Pogona_minor,,,11,14.05,71,115,0.198
+E,12306,Pogona,minor,Pogona_minor,,,10,14.05,80.5,130,0.175
+I,12341,Pogona,minor,Pogona_minor,,,5,7.05,28.7,91,0.246
+N,12424,Pogona,minor,Pogona_minor,,,6,7.3,25,91,0.292
+I,12456,Pogona,minor,Pogona_minor,,,6,11.45,42.5,104,0.269
+A,12507,Pogona,minor,Pogona_minor,,,8,12.32,62.5,124,0.197
+M,12684,Pogona,minor,Pogona_minor,,,5,7.8,42.2,111,0.185
+A,12772,Pogona,minor,Pogona_minor,,,11,18.85,99,144,0.19
+S,12829,Pogona,minor,Pogona_minor,,,5,10.19,52.2,116,0.195
+A,13627,Pogona,minor,Pogona_minor,,,6,10.54,66,128,0.16
+A,10478,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.36,2.5,,0.144
+A,10517,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.3,2.5,,0.12
+A,10518,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.4,2,,0.2
+A,10553,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.4,2.7,,0.148
+A,10566,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.38,2.7,,0.141
+A,10591,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.38,2,,0.19
+A,10592,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.35,3,,0.117
+L,10642,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.68,4,,0.17
+A,12522,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.4,3.5,,0.114
+D,12692,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.28,1.5,,0.187
+A,12757,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.6,3,,0.2
+A,12760,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.38,3,,0.127
+A,12769,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.51,2.7,,0.189
+A,12809,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.42,2,,0.21
+A,12810,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.4,2.2,,0.182
+L,12842,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.35,3,,0.117
+G,13034,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.42,2.5,,0.168
+E,13126,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.6,2.7,,0.222
+A,13204,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.36,2.5,,0.144
+A,13209,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.55,2.7,,0.204
+A,13217,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.5,2.7,,0.185
+A,13285,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.6,2.5,,0.24
+A,13291,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.4,2.7,,0.148
+M,13325,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.38,2.5,,0.152
+M,13359,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.4,3.2,,0.125
+M,13384,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.4,2.2,,0.182
+D,13404,Rhynchoedura,ornata,Rhynchoedura_ornata,,,2,0.25,2.7,,0.093
+i,24177,Tiliqua,multifasciata,Tiliqua_multifasciata,,,7,,,230,
+i,9770,Tiliqua,occipitalis,Tiliqua_occipitalis,,,6,120,410,255,0.293
+i,465,Tiliqua,occipitalis,Tiliqua_occipitalis,,,3,69,450,285,0.153
+I,13724,Tiliqua,rugosa,Tiliqua_rugosa,,,1,26,377,236,0.069
+I,13778,Tiliqua,rugosa,Tiliqua_rugosa,,,2,36,402,248,0.09
+I,13801,Tiliqua,rugosa,Tiliqua_rugosa,,,2,43,450,246,0.096
+B,28030,Varanus,brevicauda,Varanus_brevicauda,,,2,2.5,12.5,95,0.2
+B,28103,Varanus,brevicauda,Varanus_brevicauda,,,2,,10.3,96,
+B,28259,Varanus,brevicauda,Varanus_brevicauda,,,2,1.157,8.9,94,0.13
+B,28794,Varanus,brevicauda,Varanus_brevicauda,2/3~ 2mm,,,,10.6,95,
+B,28997,Varanus,brevicauda,Varanus_brevicauda,2/1~9mm,,3,,10.7,93,
+B,29022,Varanus,brevicauda,Varanus_brevicauda,1/1~8mm,,2,,8.4,85,
+B,2254,Varanus,brevicauda,Varanus_brevicauda,2/0 5mm,,2,,9.9,97,
+B,2259,Varanus,brevicauda,Varanus_brevicauda,,2/1 18-19mm,3,2.5,11.5,105,0.217391304
+R,2346,Varanus,brevicauda,Varanus_brevicauda,,2/1 17-22mm,3,2.8,11.4,96,0.245614035
+B,2467,Varanus,brevicauda,Varanus_brevicauda,1/1 3mm,,2,,6.8,92,
+R,2473,Varanus,brevicauda,Varanus_brevicauda,1/2 5mm,,3,,10.8,94,
+B,32378,Varanus,brevicauda,Varanus_brevicauda,2/1 ~4-5mm,,3,,9.9,92,
+B,32386,Varanus,brevicauda,Varanus_brevicauda,1/1 ~7mm,,2,,10.9,96,
+R,33645,Varanus,brevicauda,Varanus_brevicauda,1/1 ~9-10mm,,2,,11.5,90,
+B,34020,Varanus,brevicauda,Varanus_brevicauda,1/1~3mm,,2,,9.7,95,
+B,34080,Varanus,brevicauda,Varanus_brevicauda,1/1~8mm,,2,,9.2,95,
+E,10448,Varanus,eremius,Varanus_eremius,2/1 x ?,,3,122,,26.9,
+A,12501,Varanus,eremius,Varanus_eremius,2/1 x ?,,3,142,,42,
+A,12553,Varanus,eremius,Varanus_eremius,1/3 x ?,,4,146,,48.5,
+A,12577,Varanus,eremius,Varanus_eremius,4/2 x?,,6,141,,38,
+E,12878,Varanus,eremius,Varanus_eremius,3/3 x ?,,6,135,,24.7,
+M,13368,Varanus,eremius,Varanus_eremius,,1/2 x?,3,146,8,45.2,0.17699115
+D,13437,Varanus,eremius,Varanus_eremius,,2/2 x?,4,148,5.7,39.5,0.144303797
+L,1065,Varanus,eremius,Varanus_eremius,2 x 3mm,,2,160,,56.4,
+R,1570,Varanus,eremius,Varanus_eremius,1/3 5-6mm,,4,148,,40.1,
+L,23534,Varanus,eremius,Varanus_eremius,,2/1 x?,3,144,5.2,38.3,0.135770235
+L,27140,Varanus,eremius,Varanus_eremius,3/3 3mm,,6,143,,40,
+B,27306,Varanus,eremius,Varanus_eremius,1/1 7mm,,2,110,,20.1,
+R,27668,Varanus,eremius,Varanus_eremius,2/2 10mm,,4,147,,40,
+B,27901,Varanus,eremius,Varanus_eremius,2/0 4 mm,,2,113,,19,
+B,28169,Varanus,eremius,Varanus_eremius,2/2 12mm,,4,143,,36.5,
+R,28722,Varanus,eremius,Varanus_eremius,3/3 x 6-7mm,,6,155,,54.8,
+R,28868,Varanus,eremius,Varanus_eremius,,2/2 x 26mm,4,132,16,42.7,0.37470726
+R,29322,Varanus,eremius,Varanus_eremius,2/1 x 8mm,,3,156,,44.1,
+R,29420,Varanus,eremius,Varanus_eremius,3/1 x 2.5mm,,4,146,,34.5,
+R,29804,Varanus,eremius,Varanus_eremius,3/2 x 3mm,,5,119,,22.3,
+R,31707,Varanus,eremius,Varanus_eremius,4 x 3mm,,4,158,,45.3,
+R,31969,Varanus,eremius,Varanus_eremius,2/2 x 10-12mm,,4,135,,41,
+R,32043,Varanus,eremius,Varanus_eremius,2/2 x 6-8mm,,4,136,,40.2,
+R,32512,Varanus,eremius,Varanus_eremius,2/2 x 9mm,,4,145,,33.8,
+R,32646,Varanus,eremius,Varanus_eremius,3/1 x 15mm,,4,137,,37.9,
+B,32789,Varanus,eremius,Varanus_eremius,2/2 x 12mm,,4,144,,50,
+E,10108,Varanus,gouldii,Varanus_gouldii,,3/3 x ?,6,25,,,
+E,10152,Varanus,gouldii,Varanus_gouldii,,4/4 x ?,8,33,,,
+E,10159,Varanus,gouldii,Varanus_gouldii,,2/4 x ?,6,25,,,
+,12164,Varanus,gouldii,Varanus_gouldii,5/6 x ?,,11,,355,291,
+,12324,Varanus,gouldii,Varanus_gouldii,7/12 x?,,19,,271,280,
+,12330,Varanus,gouldii,Varanus_gouldii,10/8 x?,,18,,415,325,
+I,12758,Varanus,gouldii,Varanus_gouldii,,5/2 x?,7,29,652,344,0.044478528
+I,12853,Varanus,gouldii,Varanus_gouldii,,3/2 x ?,5,21,400,312,0.0525
+,12932,Varanus,gouldii,Varanus_gouldii,9/10 x ?,,19,,405,337,
+,13389,Varanus,gouldii,Varanus_gouldii,11/9 x ?,,20,,300,290,
+L,1039,Varanus,gouldii,Varanus_gouldii,5/5 8mm lge Ovar,,10,,560,330,
+R,1507,Varanus,gouldii,Varanus_gouldii,3/2~20-25mmDia,,5,,433,306,
+R,1532,Varanus,gouldii,Varanus_gouldii,3/5~25mmDiam,68cc Total Volume,8,68,427,305,0.159250585
+R,1605,Varanus,gouldii,Varanus_gouldii,3/3~22-25mm,53.5cc TotVol,6,53.5,448,312,0.119419643
+R,1814,Varanus,gouldii,Varanus_gouldii,6/2 lge yolked,,8,,310,353,
+R,1937,Varanus,gouldii,Varanus_gouldii,4~20mm lge yolk,,4,,413,327,
+R,2525,Varanus,gouldii,Varanus_gouldii,4/3~3mm Ovarian,,7,,311,310,
+I,33811,Varanus,gouldii,Varanus_gouldii,,,3,41.58,297,274,0.14
+I,12853,Varanus,gouldii,Varanus_gouldii,,,5,21,400,312,0.053
+,10108,Varanus,gouldii,Varanus_gouldii,,,6,25,380,,0.066
+,10159,Varanus,gouldii,Varanus_gouldii,,,6,25,380,,0.066
+I,12758,Varanus,gouldii,Varanus_gouldii,,,7,29,652,344,0.044
+,10152,Varanus,gouldii,Varanus_gouldii,,,8,33,765,,0.043
+L,925,Varanus,tristis,Varanus_tristis,5/7 x 4mm,,12,,228,270,
+R,962,Varanus,tristis,Varanus_tristis,2/3 x 9mm,,5,,200,254,
+L,1012,Varanus,tristis,Varanus_tristis,4/5 x 15mm,,9,,198,248,
+L,1058,Varanus,tristis,Varanus_tristis,,3/5 x Large,8,24,199,245,0.120603015
+R,1073,Varanus,tristis,Varanus_tristis,5/5 x 15mm,,10,,219,255,
+R,1089,Varanus,tristis,Varanus_tristis,4/6 x 15mm,,10,,170,222,
+R,1167,Varanus,tristis,Varanus_tristis,,8/6 x  Large,14,38,231,254,0.164502165
+R,1188,Varanus,tristis,Varanus_tristis,,6/5 x  Large,11,27,185.5,245,0.145552561
+R,1189,Varanus,tristis,Varanus_tristis,6/3 x 10mm,,9,,186,242,
+R,1211,Varanus,tristis,Varanus_tristis,5/3 x 10-12mm,,8,,148,222,
+L,1279,Varanus,tristis,Varanus_tristis,,4/4 x Large,8,24.5,205,238,0.119512195
+L,1308,Varanus,tristis,Varanus_tristis,,6/5 x Large,11,44.5,214,250,0.207943925
+L,1326,Varanus,tristis,Varanus_tristis,,4/4 x Large,8,34,215,240,0.158139535
+R,1447,Varanus,tristis,Varanus_tristis,,4/4 x Large,8,30,182,234,0.164835165
+R,1482,Varanus,tristis,Varanus_tristis,,5/5 x,10,40,282,269,0.141843972
+R,1500,Varanus,tristis,Varanus_tristis,,8/7 x,15,54,298,264,0.181208054
+R,1508,Varanus,tristis,Varanus_tristis,4/2 x 5mm,,6,,175,252,0
+R,1563,Varanus,tristis,Varanus_tristis,,8/9 x,17,64,317,289,0.201892744
+R,1564,Varanus,tristis,Varanus_tristis,,5/5 x,10,33,186,240,0.177419355
+G,12355,Varanus,tristis,Varanus_tristis,6/4 x 8mm,,10,,264,240,
+R,25315,Varanus,tristis,Varanus_tristis,6/4 x 11-12mm,,10,,261,216,
+,33217,Pogona,minor,Pogona_minor,,8x12x25,8,,62.2,125,
