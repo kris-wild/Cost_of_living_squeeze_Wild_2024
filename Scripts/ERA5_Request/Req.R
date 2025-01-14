@@ -16,8 +16,8 @@ ymn <- -28.50
 ymx <- -25.50
 
 # temporal extent
-st_time <- lubridate::ymd("2016:01:01")
-en_time <- lubridate::ymd("2020:12:31")
+st_time<-lubridate::ymd(paste0(year, ":01:01"))
+en_time<-lubridate::ymd(paste0(year, ":12:31"))
 
 file_prefix <- "ERA5"
 op <- "Era5/"
