@@ -343,23 +343,23 @@ ACT_change_yr_terra_plot <- ggplot(ACT_change_yr_terra_ACT_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral2", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick2",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral2", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick2"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3", 
                                "M. suborbitalis" = "coral2", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick2",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral2", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick2"),
                     limits = species_order) +
   guides(color = guide_legend(order = 1), 
@@ -404,23 +404,23 @@ MR_change_yr_terra_plot_dat_plot <-  ggplot(MR_change_yr_terra_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral2", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick2",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral2",
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick2"), 
                      na.value = NA,  limits = species_order) +
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3", 
                                "M. suborbitalis" = "coral2", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick2",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral2", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick2"),  
                     limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), 
@@ -458,23 +458,23 @@ Forage_yr_terra_plot_dat_plot <-  ggplot(Forage_change_yr_terra_ACT_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral2", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick2",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral2",
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick2"), 
                      na.value = NA,  limits = species_order) +
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3", 
                                "M. suborbitalis" = "coral2", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick2",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral2", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick2"), 
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), 
@@ -956,7 +956,7 @@ species_order_AF = c("Af_A", "Af_B", "Af_L", "Af_X",
                      "C. angulifer", "A. aculeata", "M. suborbitalis", "P. lineoocellata",
                      "T. sparsa")
 colors <- c( "#9DB9F1", "#4479E4", "#16439C", "#0D2659",
-             "grey40","darkgoldenrod3", "coral","bisque3", "firebrick4")
+             "grey40","darkgoldenrod3", "coral","green3", "firebrick4")
 
 ###########
 ### Plotting - Africa
@@ -1014,7 +1014,7 @@ contemp_ta_tb_australia$Combined <- factor(contemp_ta_tb_australia$Combined,
 species_order_AU = c( "Au_A", "Au_L", "Au_R", 
                       "G. variegata", "P. minor", "C. isolepis", "C. quatt",
                       "M. horridus")
-colors <- c( "#9DB9F1", "#4479E4", "#16439C","grey40","darkgoldenrod3", "coral","bisque3", "firebrick4")
+colors <- c( "#9DB9F1", "#4479E4", "#16439C","grey40","darkgoldenrod3", "coral","green3", "firebrick4")
 ###########
 ### Plotting - TA/TB australia 
 Ta_Tb_contemp_australia <- ggplot(contemp_ta_tb_australia, 
@@ -1153,16 +1153,16 @@ Ta_Tb_contemp_winter_africa_plot <- ggplot(contemp_ta_tb_winter_africa, aes(x = 
   scale_shape_manual(values = c("winter" = 21, "summer" = 21)) +
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", "T. sparsa" = "firebrick4", 
+                                "P. lineoocellata" = "green3", "T. sparsa" = "firebrick4", 
                                 "Site_AFA" = "#9DB9F1", "Site_AFB" = "#4479E4", 
                                 "Site_AFL" = "#16439C", "Site_AFX" = "#0D2659"), na.value = NA) +
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3", "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", "T. sparsa" = "firebrick4", 
+                               "P. lineoocellata" = "green3", "T. sparsa" = "firebrick4", 
                                "Site_AFA" = "#9DB9F1", "Site_AFB" = "#4479E4", 
                                "Site_AFL" = "#16439C", "Site_AFX" = "#0D2659"), na.value = NA) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
-  ylim(-.2, .4)+
+  ylim(-.2, .6)+
   labs(y = "Temperature Change by Decade (°C)", color = "Species/Site", 
        x = NULL) +
   geom_hline(yintercept = 0, linetype = "dashed", color = "black") +  # Dashed line at y = 0
@@ -1196,16 +1196,16 @@ Ta_Tb_contemp_spring_africa_plot <- ggplot(contemp_ta_tb_spring_africa, aes(x = 
   scale_shape_manual(values = c("spring" = 21, "spring" = 21)) +
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", "T. sparsa" = "firebrick4", 
+                                "P. lineoocellata" = "green3", "T. sparsa" = "firebrick4", 
                                 "Site_AFA" = "#9DB9F1", "Site_AFB" = "#4479E4", 
                                 "Site_AFL" = "#16439C", "Site_AFX" = "#0D2659"), na.value = NA) +
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3", "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", "T. sparsa" = "firebrick4", 
+                               "P. lineoocellata" = "green3", "T. sparsa" = "firebrick4", 
                                "Site_AFA" = "#9DB9F1", "Site_AFB" = "#4479E4", 
                                "Site_AFL" = "#16439C", "Site_AFX" = "#0D2659"), na.value = NA) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
-  ylim(-.2, .4)+
+  ylim(-.2, .6)+
   labs(y = NULL, 
        x = NULL) +
   geom_hline(yintercept = 0, linetype = "dashed", color = "black") +  # Dashed line at y = 0
@@ -1237,16 +1237,16 @@ Ta_Tb_contemp_summer_africa_plot <- ggplot(contemp_ta_tb_summer_africa, aes(x = 
   scale_shape_manual(values = c("summer" = 21, "summer" = 21)) +
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", "T. sparsa" = "firebrick4", 
+                                "P. lineoocellata" = "green3", "T. sparsa" = "firebrick4", 
                                 "Site_AFA" = "#9DB9F1", "Site_AFB" = "#4479E4", 
                                 "Site_AFL" = "#16439C", "Site_AFX" = "#0D2659"), na.value = NA) +
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3", "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", "T. sparsa" = "firebrick4", 
+                               "P. lineoocellata" = "green3", "T. sparsa" = "firebrick4", 
                                "Site_AFA" = "#9DB9F1", "Site_AFB" = "#4479E4", 
                                "Site_AFL" = "#16439C", "Site_AFX" = "#0D2659"), na.value = NA) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
-  ylim(-.2, .4)+
+  ylim(-.2, .6)+
   labs(y = NULL, color = "Species/Site", 
        x = NULL) +
   geom_hline(yintercept = 0, linetype = "dashed", color = "black") +  # Dashed line at y = 0
@@ -1289,16 +1289,16 @@ Ta_Tb_contemp_winter_australia_plot <- ggplot(contemp_ta_tb_winter_australia, ae
   scale_shape_manual(values = c("winter" = 21, "summer" = 21)) +
   scale_color_manual(values = c("G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", "M. horridus" = "firebrick4",
+                                "C. quatt" = "green3", "M. horridus" = "firebrick4",
                                 "Site_AUA" = "#9DB9F1", "Site_AUL" = "#4479E4", 
                                 "Site_AUR" = "#16439C")) +
   scale_fill_manual(values = c("G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", "M. horridus" = "firebrick4",
+                               "C. quatt" = "green3", "M. horridus" = "firebrick4",
                                "Site_AUA" = "#9DB9F1", "Site_AUL" = "#4479E4", 
                                "Site_AUR" = "#16439C"), na.value = NA) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
-  ylim(-.2, .4)+
+  ylim(-.2, .6)+
   labs(y = NULL, color = "Species/Site", 
        x = NULL) +
   geom_hline(yintercept = 0, linetype = "dashed", color = "black") +  # Dashed line at y = 0
@@ -1332,16 +1332,16 @@ Ta_Tb_contemp_spring_australia_plot <- ggplot(contemp_ta_tb_spring_australia, ae
   scale_shape_manual(values = c("winter" = 21, "spring" = 21)) +
   scale_color_manual(values = c("G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", "M. horridus" = "firebrick4",
+                                "C. quatt" = "green3", "M. horridus" = "firebrick4",
                                 "Site_AUA" = "#9DB9F1", "Site_AUL" = "#4479E4", 
                                 "Site_AUR" = "#16439C")) +
   scale_fill_manual(values = c("G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", "M. horridus" = "firebrick4",
+                               "C. quatt" = "green3", "M. horridus" = "firebrick4",
                                "Site_AUA" = "#9DB9F1", "Site_AUL" = "#4479E4", 
                                "Site_AUR" = "#16439C"), na.value = NA) + 
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
-  ylim(-.2, .4)+
+  ylim(-.2, .6)+
   geom_hline(yintercept = 0, linetype = "dashed", color = "black") +  # Dashed line at y = 0
   labs(y = NULL, color = "Species/Site", 
        x = NULL) +
@@ -1374,16 +1374,16 @@ Ta_Tb_contemp_summer_australia_plot <- ggplot(contemp_ta_tb_summer_australia, ae
   scale_shape_manual(values = c("winter" = 21, "summer" = 21)) +
   scale_color_manual(values = c("G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", "M. horridus" = "firebrick4",
+                                "C. quatt" = "green3", "M. horridus" = "firebrick4",
                                 "Site_AUA" = "#9DB9F1", "Site_AUL" = "#4479E4", 
                                 "Site_AUR" = "#16439C")) +
   scale_fill_manual(values = c("G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", "M. horridus" = "firebrick4",
+                               "C. quatt" = "green3", "M. horridus" = "firebrick4",
                                "Site_AUA" = "#9DB9F1", "Site_AUL" = "#4479E4", 
                                "Site_AUR" = "#16439C"), na.value = NA) + 
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
-  ylim(-.2, .4)+
+  ylim(-.2, .6)+
   geom_hline(yintercept = 0, linetype = "dashed", color = "black") +  # Dashed line at y = 0
   labs(y = NULL, color = "Species/Site", 
        x = NULL) +
@@ -1477,23 +1477,23 @@ ACT_contemp_plot <- ggplot(ACT_contemp_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), 
@@ -1548,23 +1548,23 @@ MRate_contemp_plot <- ggplot(MRate_contemp_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
@@ -1572,8 +1572,8 @@ MRate_contemp_plot <- ggplot(MRate_contemp_plot_dat,
   labs(y = "J/g/decade", 
        color = "Species", 
        x = NULL) +
-  scale_y_continuous(limits = c(-100, 550), breaks = seq(-100, 500, by = 100)) + 
-  annotate("text", x = 1.5, y = 540, label = expression(Delta * "Metabolic Rate"), 
+  scale_y_continuous(limits = c(-100, 700), breaks = seq(-100, 700, by = 100)) + 
+  annotate("text", x = 1.5, y = 690, label = expression(Delta * "Metabolic Rate"), 
            fontface = "bold", size = 10.5)+
   geom_hline(yintercept = 0, linetype = "dashed", color = "black") +  # Dashed line at y = 0
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
@@ -1610,23 +1610,23 @@ Foraging_contemp_plot <- ggplot(Foraging_contemp_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA, limits = species_order) +
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA, limits = species_order) +
   guides(color = guide_legend(override.aes = list(size = 3)),
@@ -1728,23 +1728,23 @@ contemp_ACT_winter_plot <- ggplot(contemp_ACT_winter_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
@@ -1793,23 +1793,23 @@ contemp_ACT_spring_plot <- ggplot(contemp_ACT_spring_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
@@ -1853,23 +1853,23 @@ contemp_ACT_summer_plot <- ggplot(contemp_ACT_summer_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
@@ -1922,23 +1922,23 @@ contemp_MRate_winter_plot <- ggplot(contemp_MRate_winter_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
@@ -1946,8 +1946,8 @@ contemp_MRate_winter_plot <- ggplot(contemp_MRate_winter_plot_dat,
   labs(y = "J/g/decade", 
        color = "Species", 
        x = NULL)  +
-  scale_y_continuous(limits = c(-155, 300), breaks = seq(-150, 300, by = 50)) +
-  annotate("text", x = 1.5, y = 300, label = "winter", 
+  scale_y_continuous(limits = c(-180, 350), breaks = seq(-150, 350, by = 50)) +
+  annotate("text", x = 1.5, y = 350, label = "winter", 
            size = 8,  # Size 8 in ggplot2 corresponds to 20pt font size
            fontface = "bold")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
@@ -1981,23 +1981,23 @@ contemp_MRate_spring_plot <- ggplot(contemp_MRate_spring_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
@@ -2005,8 +2005,8 @@ contemp_MRate_spring_plot <- ggplot(contemp_MRate_spring_plot_dat,
   labs(y = NULL, 
        color = "Species", 
        x = NULL) +
-  scale_y_continuous(limits = c(-155, 300), breaks = seq(-150, 300, by = 50))  +
-  annotate("text", x = 1.5, y = 300, label = "spring", 
+  scale_y_continuous(limits = c(-180, 350), breaks = seq(-150, 350, by = 50))  +
+  annotate("text", x = 1.5, y = 350, label = "spring", 
            size = 8,  # Size 8 in ggplot2 corresponds to 20pt font size
            fontface = "bold")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
@@ -2042,23 +2042,23 @@ contemp_MRate_summer_plot <- ggplot(contemp_MRate_summer_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
@@ -2066,8 +2066,8 @@ contemp_MRate_summer_plot <- ggplot(contemp_MRate_summer_plot_dat,
   labs(y = NULL, 
        color = "Species", 
        x = NULL)  +
-  scale_y_continuous(limits = c(-155, 300), breaks = seq(-150, 300, by = 50))  +
-  annotate("text", x = 1.5, y = 300, label = "summer", 
+  scale_y_continuous(limits = c(-180, 350), breaks = seq(-150, 350, by = 50))  +
+  annotate("text", x = 1.5, y = 350, label = "summer", 
            size = 8,  # Size 8 in ggplot2 corresponds to 20pt font size
            fontface = "bold")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
@@ -2098,32 +2098,32 @@ contemp_Foraging_winter_plot_1 <- ggplot(contemp_Foraging_winter_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
   theme_bw() +
-  scale_y_continuous(limits = c(-.12, .22), breaks = c( -.1, -.05, 0, 0.05, .1, .15, .2)) +
+  scale_y_continuous(limits = c(-.29, .25), breaks = c(-.25, -.2, -.15, -.1, -.05, 0, 0.05, .1, .15, .2, .25)) +
   labs(y = NULL, 
        color = "Species", 
        x = NULL)  +
-  annotate("text", x = 1.5, y = .22, label = "winter", 
+  annotate("text", x = 1.5, y = .25, label = "winter", 
            size = 8,  # Size 8 in ggplot2 corresponds to 20pt font size
            fontface = "bold") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
@@ -2158,28 +2158,28 @@ contemp_Foraging_winter_plot_2 <- ggplot(contemp_Foraging_winter_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
   theme_bw() +
-  scale_y_continuous(limits = c(-1.99, -.74), breaks = seq(-1.8, -.8, by = .4))  +
+  scale_y_continuous(limits = c(-1.99, -.65), breaks = seq(-1.8, -.8, by = .4))  +
   labs(y = NULL, 
        color = "Species", 
        x = NULL)  +
@@ -2236,23 +2236,23 @@ contemp_Foraging_spring_plot <- ggplot(contemp_Foraging_spring_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
@@ -2301,23 +2301,23 @@ contemp_Foraging_summer_plot <- ggplot(contemp_Foraging_summer_plot_dat,
   scale_color_manual(values = c("C. angulifer" = "grey40",
                                 "A. aculeata" = "darkgoldenrod3", 
                                 "M. suborbitalis" = "coral", 
-                                "P. lineoocellata" = "bisque3", 
+                                "P. lineoocellata" = "green3", 
                                 "T. sparsa" = "firebrick4",
                                 "G. variegata" = "grey40",
                                 "P. minor" = "darkgoldenrod3", 
                                 "C. isolepis" = "coral", 
-                                "C. quatt" = "bisque3", 
+                                "C. quatt" = "green3", 
                                 "M. horridus" = "firebrick4"), 
                      na.value = NA,  limits = species_order)+
   scale_fill_manual(values = c("C. angulifer" = "grey40",
                                "A. aculeata" = "darkgoldenrod3",
                                "M. suborbitalis" = "coral", 
-                               "P. lineoocellata" = "bisque3", 
+                               "P. lineoocellata" = "green3", 
                                "T. sparsa" = "firebrick4",
                                "G. variegata" = "grey40",
                                "P. minor" = "darkgoldenrod3", 
                                "C. isolepis" = "coral", 
-                               "C. quatt" = "bisque3", 
+                               "C. quatt" = "green3", 
                                "M. horridus" = "firebrick4"),
                     na.value = NA,  limits = species_order) +
   guides(fill = FALSE, color = guide_legend(order = 1), shape = guide_legend(order = 2)) +
